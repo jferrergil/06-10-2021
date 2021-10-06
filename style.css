@@ -1,0 +1,14 @@
+header,
+section {
+  border: 1px solid grey;
+  margin: 2em 1rem;
+}
+
+header {
+  border-color: red;
+}
+
+h1 {
+  padding: auto;
+  color: aquamarine;
+}
